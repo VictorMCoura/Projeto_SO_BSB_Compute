@@ -1,7 +1,7 @@
 # ☁️ BSB Compute: Sistema de Orquestração de Tarefas
 
 **Instituição:** CEUB - Centro Universitário de Brasília  
-**Curso:** Ciência da Computação / Engenharia de Software  
+**Curso:** Ciência da Computação
 **Disciplina:** Sistemas Operacionais (2025.2)  
 **Professor:** Me. Michel Junio Ferreira Rosa  
 
